@@ -18,7 +18,3 @@ Contatoo no e-mail: rondniendson@gmail.com 📩
   <img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode" />
 </p>
 
-## 🐍 Minhas contribuições
-
-![Snake animation](https://github.com/rondney400850-sys/rondney400850-sys/blob/output/github-contribution-grid-snake.svg)
-
