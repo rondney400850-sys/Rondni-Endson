@@ -15,6 +15,6 @@ Contatoo no e-mail: rondniendson@gmail.com 📩
 🛠️ Tecnologias que estou aprendendo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,js,html,css" />
 </p>
 
